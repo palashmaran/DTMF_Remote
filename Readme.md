@@ -1,3 +1,3 @@
-#IOT DEMO of Moving Car using  embedded technology.
+#IOT DEMO of Car Controller using embedded technology.
 
-Moving of Car based on signals which is sent to DTMF Controller using Client-service model (Android app) 
+Car controls based on signals which is sent to DTMF controller using Client-Service model (Android application).
